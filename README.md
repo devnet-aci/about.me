@@ -165,8 +165,8 @@ Ao longo de minha trajetória profissional, obtive algumas certificações relev
         <img height="50px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
       </td>    
       <td width="20%" align="center">
-        <span>ArgoCD</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg">
+        <span>Jenkins</span><br><br><br>
+        <img height="50px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg">
       </td>
     </tr>
   </tbody>
