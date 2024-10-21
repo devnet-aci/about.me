@@ -73,6 +73,23 @@ Ao longo de minha trajetória profissional, obtive algumas certificações relev
   </tbody>
 </table>  
 
+##  Sistema Operacional / Infraestrutura de Cloud
+
+<table>
+  <tbody>
+    <tr valign="top">
+        <td width="20%" align="center">
+        <span>Linux</span><br><br><br>
+            <img height="50px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
+        </td>
+      <td width="20%" align="center">
+        <span>AWS</span><br><br><br>
+        <img height="50px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Infraestrutura como Código
 
 <table>
@@ -90,32 +107,6 @@ Ao longo de minha trajetória profissional, obtive algumas certificações relev
   </tbody>
 </table>
 
-
-## Infraestrutura de Cloud
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>AWS</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-## Sistema Operacional 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>Linux</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
-      </td>
-  </tbody>
-</table>
-
-  
 ## Linguages de programação / Framework:
 
 <table>
