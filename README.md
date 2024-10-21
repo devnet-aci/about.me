@@ -161,13 +161,13 @@ Ao longo de minha trajetória profissional, obtive algumas certificações relev
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-        <span>GitHub Actions</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
-      </td>    
-      <td width="20%" align="center">
         <span>Jenkins</span><br><br><br>
         <img height="50px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg">
       </td>
+      <td width="20%" align="center">
+        <span>GitHub Actions</span><br><br><br>
+        <img height="50px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
+      </td>    
     </tr>
   </tbody>
 </table>  
