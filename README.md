@@ -100,14 +100,6 @@ Ao longo de minha trajetória profissional, obtive algumas certificações relev
         <span>AWS</span><br><br><br>
         <img height="50px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
       </td>
-      <td width="20%" align="center">
-        <span>GCP</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Azure</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
-      </td>
     </tr>
   </tbody>
 </table>
