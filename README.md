@@ -148,30 +148,6 @@ Ao longo de minha trajetória profissional, obtive algumas certificações relev
         <img height="50px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
       </td>
       <td width="20%" align="center">
-        <span>Rancher</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Helm</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg">
-      </td>      
-      <td width="20%" align="center">
-        <span>LongHorn</span><br><br><br>
-        <img height="50px" src="https://www.suse.com/c/wp-content/uploads/2023/03/longhorn-icon-color.png">
-      </td>
-      <td width="20%" align="center">
-        <span>Istio</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Jaeger</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-icon.svg">
-      </td> 
-      <td width="20%" align="center">
-        <span>Kiali</span><br><br><br>
-        <img height="50px" src="https://s3.amazonaws.com/media-p.slid.es/uploads/671898/images/6101039/kiali_logo_darkbkg_1280px.svg">
-      </td>
-      <td width="20%" align="center">
         <span>Traefik</span><br><br><br>
         <img height="50px" src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg">
       </td> 
